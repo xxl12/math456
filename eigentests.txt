@@ -1,0 +1,85 @@
+
+---- Steepestest descent, 5x5 -----------------------
+
+
+Iteration 1: Estimated eigenvalue = -0.6960011575892078
+Iteration 2: Estimated eigenvalue = -1.8715503134938665
+Iteration 3: Estimated eigenvalue = -2.567633404237094
+Iteration 4: Estimated eigenvalue = -2.768211810137696
+Iteration 5: Estimated eigenvalue = -2.804029453822759
+Iteration 6: Estimated eigenvalue = -2.8095050240461212
+Iteration 7: Estimated eigenvalue = -2.8103242410858025
+Iteration 8: Estimated eigenvalue = -2.8104473556239524
+Iteration 9: Estimated eigenvalue = -2.8104659772581475
+Iteration 10: Estimated eigenvalue = -2.8104688087137264
+Iteration 11: Estimated eigenvalue = -2.8104692409760137
+Iteration 12: Estimated eigenvalue = -2.8104693071683235
+Iteration 13: Estimated eigenvalue = -2.810469317327729
+Iteration 14: Estimated eigenvalue = -2.8104693188897443
+Iteration 15: Estimated eigenvalue = -2.8104693191302195
+Iteration 16: Estimated eigenvalue = -2.8104693191672783
+Iteration 17: Estimated eigenvalue = -2.8104693191729937
+Iteration 18: Estimated eigenvalue = -2.810469319173876
+Iteration 19: Estimated eigenvalue = -2.810469319174012
+Iteration 20: Estimated eigenvalue = -2.810469319174033
+Convergence achieved.
+Smallest Eigenvalue: -2.810469319174033
+Corresponding Eigenvector: [ 0.21702928 -0.07179623 -0.34539066 -0.67948092 -0.60560265]
+
+---- Rayleigh quotient, 5x5 -----------------------
+
+Iteration 1: Eigenvalue = -1.268996487503348
+Iteration 2: Eigenvalue = -1.7274884634788796
+Iteration 3: Eigenvalue = -2.509590481965211
+Iteration 4: Eigenvalue = -2.8072678822669066
+Iteration 5: Eigenvalue = -2.8104693161239984
+Iteration 6: Eigenvalue = -2.810469319174037
+Convergence achieved.
+Smallest Eigenvalue: -2.810469319174037
+Corresponding Eigenvector: [ 0.21702929 -0.07179622 -0.34539067 -0.67948089 -0.60560267]
+
+---- Steepestest descent, 50x50 -----------------------
+
+Exact eigenvalues: [-9.19962586 -8.86612886 -8.0581429  -7.45641398 -6.50423311 -6.3326434
+ -6.06205103 -5.96212423 -5.32182264 -4.95601206 -4.6580621  -4.37977757
+ -3.94985915 -3.570967   -3.37853333 -2.9267181  -2.82124728 -2.4752325
+ -2.03550715 -1.82082347 -1.43284411 -1.42097551 -0.92024675 -0.79827195
+ -0.65178546  0.11524451  0.43657366  0.92742559  1.47226195  1.57545925
+  1.9992377   2.18681106  2.38082333  2.50986527  2.65269969  3.14468173
+  3.2376305   3.9516495   4.09337643  4.57321046  5.03933112  5.43034352
+  5.65906516  6.3311087   6.74715592  7.16809273  7.41907068  7.93753427
+  8.43383406  9.36835658]
+Iteration 1: Estimated eigenvalue = -5.055925678407361
+Iteration 2: Estimated eigenvalue = -6.807103423974863
+Iteration 3: Estimated eigenvalue = -6.021472716371017
+
+Iteration 387: Estimated eigenvalue = -9.199625860134253
+Iteration 388: Estimated eigenvalue = -9.19962586013433
+Iteration 389: Estimated eigenvalue = -9.1996258601344
+Iteration 390: Estimated eigenvalue = -9.199625860134464
+Iteration 391: Estimated eigenvalue = -9.199625860134526
+Iteration 392: Estimated eigenvalue = -9.199625860134583
+Iteration 393: Estimated eigenvalue = -9.199625860134637
+Iteration 394: Estimated eigenvalue = -9.199625860134688
+Iteration 395: Estimated eigenvalue = -9.199625860134734
+Convergence achieved.
+Smallest Eigenvalue: -9.199625860134734
+Corresponding Eigenvector: [ 0.12793424  0.3158269  -0.13560569 -0.15781744 -0.0451901  -0.02780352
+  0.1160414  -0.06709771  0.20984819 -0.2435727  -0.0866582  -0.09728279
+  0.14164812 -0.10625427  0.05389113 -0.06092809 -0.14163405  0.01519558
+ -0.06455146  0.06995448 -0.21732873 -0.31227732  0.23876984  0.05689295
+  0.12387282  0.04107236 -0.03722713  0.20578098  0.21150309  0.05170748
+  0.03472395 -0.14438563 -0.37591801  0.03602833 -0.05993895  0.08497156
+ -0.16569376 -0.10084787  0.12881    -0.07577014 -0.04058721 -0.03305663
+  0.12031464 -0.07957726 -0.01787495  0.04963939  0.04908954  0.03067764
+  0.05691713  0.22499541]
+
+---- Rayleigh quotient, 50x50 -----------------------
+
+Iteration 1: Eigenvalue = 0.028005434468425103
+Iteration 2: Eigenvalue = 0.10675286632189279
+Iteration 3: Eigenvalue = 0.11526002908325486
+Iteration 4: Eigenvalue = 0.11524451189701682
+Iteration 5: Eigenvalue = 0.1152445118969767
+
+
