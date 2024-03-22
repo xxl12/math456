@@ -1,0 +1,23 @@
+function run(a,h)
+
+int=[0,20];
+y0=1.5;
+
+[t1,y1]=euler(int,y0,h,a);
+[t2,y2]=RK2(int,y0,h,a);
+[t3,y3]=RK3(int,y0,h,a);
+[t4,y4]=RK4(int,y0,h,a);
+
+ye= 1 - 1./(1+y0/(1-y0)*exp(a*t1));
+
+disp([h,norm(y1-ye,inf),norm(y2-ye,inf),norm(y3-ye,inf),norm(y4-ye,inf)])
+
+—————————————————
+
+run program: a=1;
+h           Euler      RK2               RK4           
+1/8         0.01904    0.0011643      1.7241e-006    
+1/16        0.0090477  0.00027346     1.0267e-007    
+1/32        0.0044134  6.6247e-005    6.232e-009     
+1/64        0.0021807  1.6297e-005    3.8371e-010   
+
